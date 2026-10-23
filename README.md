@@ -1,4 +1,4 @@
-# Persian-Subtitle-Downloader
+# Persian Subtitle Downloader
 
 Batch downloads and mux Persian subtitle for your entire movies folder, 100% vibe coded!
 
