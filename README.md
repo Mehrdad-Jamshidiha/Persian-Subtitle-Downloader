@@ -2,7 +2,7 @@
 
 Batch downloads and mux Persian subtitle for your entire movies folder, 100% vibe coded!
 
-- Checks movie folder, detect movies with Persian Dub, Then downloads subtitle for those without Persian Dub, then mux the movies with subtitles (Mux is optional!), then put muxed movies in Subtitled folder.
+- Checks the movies folder, detect movies with Persian Dub, Then downloads subtitle for those without Persian Dub, then mux the movies with subtitles (Mux is optional!), then put muxed movies in Subtitled folder.
 - Works with most torrent and Iranian websites file naming scheme.
 - Fix SRT file if it has wrong encoding.
 - Won't work with series and documentaries, Just movies. (actually may work for some documentaries!)
